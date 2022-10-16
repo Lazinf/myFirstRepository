@@ -8,4 +8,7 @@ Ut nec dapibus lorem, id pellentesque elit. Phasellus eget mauris elit. Nullam e
 New line Add in update-readme-html-skeleton branch
 update-readme-html-skeleton branch created branch from html-skeleton branch. 16-10-2022 13:58
 
+Update README.md 2 Lines Add 8-9 #3 - 
+Conflicting files - conflicts that must be resolved => Action = Conflicting Files  resolved.
+
 Eof.
